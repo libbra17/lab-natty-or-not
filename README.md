@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Descomplicada: como ensinar de forma simples Inteligência Artificial Generativa para Iniciantes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Promover ensino de IA por meio de tutoriais e passo a passos tende a ser forma democrática e elucidativa para iniciantes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Chat GPT: https://chatgpt.com/c/67831485-dff4-800a-9004-0448a980fa30
+Bing Criador de Imagens: https://www.bing.com/images/create/
+Gamma: https://gamma.app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente, foi realizado contato com o Chat-gpt:
+você é mestre em metodologias de ensino e grande entendedor de Inteligência Artifical (IA). Qual a forma mais simples de ensinar IA para iniciantes?
+
+Em seguida, solicitamos criação de imagem no Bing, com o pedido: "um ambiente de ensino de Inteligência Artificial moderno e descomplicado para alunos iniciantes e interessados em tecnologia"
+
+Po fim, por meio do link gamma.app, solicitamos a criação de slides.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://chatgpt.com/share/6784182e-edcc-800a-a90f-27a1e80211ff
+
+https://gamma.app/docs/IA-Descomplicada-Introducao-a-Inteligencia-Artificial-Generativa-73yn05l6c5atwmy
+
+https://www.bing.com/images/create/um-ambiente-de-ensino-de-inteligc3aancia-artificial-m/1-678414a5143d45d393f57c0578e48d29?darkschemeovr=1&FORM=GUH2CR
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+IA nos ajuda a simplificar os desafios à medida em que vai se tornando mais compreensível o uso dessas ferramentas.
